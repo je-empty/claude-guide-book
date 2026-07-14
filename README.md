@@ -2,7 +2,8 @@
 
 이 저장소는 책에 나오는 **실습용 프롬프트**를 제공합니다. 긴 프롬프트는 여기서 **복사해서 바로 클로드에 붙여 넣어** 사용하세요.
 
-![](assets/vol-1/cover.png)<img width="122" height="153" alt="책표지" src="https://github.com/user-attachments/assets/e3f9c54c-1a88-48b4-a6f4-8e9e26862bd7" />
+![](assets/vol-1/cover.png)<img width="122" height="153" alt="클로드 활용서 표지" src="https://github.com/user-attachments/assets/0a1c5da2-303c-4019-b734-8bd3b9da294d" />
+
 
 ---
 
